@@ -74,7 +74,7 @@ Here are suggestions for upgrading the project:
 
 ## Author
 
-Ashish K Nanda – GitHub: https://github.com/ashishknanda
+Ashish Kumar (Nanda) – GitHub: https://github.com/ashishknanda
 Feel free to contact for feedback or improvements.
 
 ## License
